@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css href="style.css">
+    </head>
+<body>
+    <div class="main-content">
+        <div class="instagram-post">
+            <div class="instagram-post-left></div>
+            <div class=instagram-post-right></div>
+        </div>
+        <div class="instagram-image">
+            <img src="img-post"  alt="Flowers in Chania">
+        </div>    
+
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,74 @@
+body{
+    background: black;
+    font: 18px;
+    font-family:
+
+
+}
+.main-content
+h1{ margin: 10px;
+
+}
+p{margin: 10px;
+
+
+}
+.main-content {
+    background: white;
+    width: 400px;
+    margin: 18px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+
+}
+.postcard {
+    padding: 10px;
+
+}
+.header-left-part {
+    float: left;
+}
+
+.header-right-part img {
+    float: right;
+    max-width:60px
+
+}
+.postcard-header {
+    height:70px;
+
+}
+.body-right-part {
+    float:right;
+    width:40%;
+    padding-top: 20px;
+    left:-40px;
+
+
+}
+input[type=text]{
+    width:100%;
+    border: none;
+    border-bottom:2px solid #dedede;
+    margin-bottom: 40pxs;
+    padding: 10px 10px;
+}
+.body-left-part{
+    float:left;
+    width:50%;
+
+
+
+}
+
+.postcard-body{
+    overflow: hidden;
+}
+.postcard-header{
+    overflow: hidden;
+}
+.postcard-footer{background: white; padding: 10px; text-align: center; }
+.postcard-footer input[type=submit] {border: none; border-bottom: 1px solid grey;}
+
